@@ -1,0 +1,14 @@
+body{
+    background-color: mediumpurple;
+    text-align: center;
+}
+.image-section{
+    display: flex;
+justify-content: center;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: beige;
+}
+    
